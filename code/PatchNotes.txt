@@ -1,0 +1,15 @@
++adding a new report to display the email and the facebook name for the students
+
+20-8-2019 
++fix the milit-group part , and the size
+
+
+adding 3 things here
+Pace_testif
+and here adding dele only
+Pace_cert
+
+
+2.7 
++new database added 
+id for the student scanned inside
